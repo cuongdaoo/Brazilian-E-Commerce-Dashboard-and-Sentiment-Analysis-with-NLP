@@ -38,6 +38,7 @@ Dataset has information of nearly 100.000 orders placed on Olist website and con
 - Olist_sellers_dataset: This dataset includes data about the sellers that fulfilled orders made at Olist.
 - Olist_products_dataset: This dataset includes data about the products sold by Olist.
 - Olist_product_category_name_translation: This dataset translates the product_category_name to english.
+
 Cleaning process [here](https://github.com/cuongdaoo/Brazilian-E-Commerce-Dashboard/blob/main/Cleaning.md)
 
 # IV. Analyst
