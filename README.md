@@ -42,4 +42,5 @@ Dataset has information of nearly 100.000 orders placed on Olist website and con
 Cleaning process [here](https://github.com/cuongdaoo/Brazilian-E-Commerce-Dashboard/blob/main/Cleaning.md)
 
 # IV. Analyst
-Insights from dashboard: [here](https://github.com/cuongdaoo/Brazilian-E-Commerce-Dashboard/blob/main/Analyst.md)
+* 🔗 **Live Power BI Dashboard**: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDMxMmE2NzAtMmYwOS00YWZjLWFhM2YtYjkyYTQ1ZGI1ZGZlIiwidCI6IjA0NjRjNWRlLTQzNmItNDJjMi05NzQ4LTc0NTZmNWQzYTU2NCIsImMiOjEwfQ%3D%3D)
+* Insights from dashboard: [here](https://github.com/cuongdaoo/Brazilian-E-Commerce-Dashboard/blob/main/Analyst.md)
